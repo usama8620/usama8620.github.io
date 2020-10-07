@@ -104,6 +104,8 @@ a {
   right: 0;
   bottom: 0; }
 
+.center { text-align: center; }
+
 .site-loader-wrap {
   z-index: 7700;
   position: fixed;
